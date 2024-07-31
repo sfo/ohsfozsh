@@ -17,3 +17,6 @@
 [submodule "plugins/zsh-history-substring-search"]
 	path = plugins/zsh-history-substring-search
 	url = https://github.com/zsh-users/zsh-history-substring-search
+[submodule "plugins/autoenv"]
+	path = plugins/autoenv
+	url = https://github.com/Tarrasch/zsh-autoenv.git
