@@ -20,3 +20,6 @@
 [submodule "plugins/autoenv"]
 	path = plugins/autoenv
 	url = https://github.com/Tarrasch/zsh-autoenv.git
+[submodule "plugins/zsh-dircolors-solarized"]
+	path = plugins/zsh-dircolors-solarized
+	url = https://github.com/sfo/zsh-dircolors-solarized.git
