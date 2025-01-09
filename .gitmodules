@@ -23,3 +23,6 @@
 [submodule "plugins/zsh-dircolors-solarized"]
 	path = plugins/zsh-dircolors-solarized
 	url = https://github.com/sfo/zsh-dircolors-solarized.git
+[submodule "plugins/zsh-autocomplete"]
+	path = plugins/zsh-autocomplete
+	url = git@github.com:marlonrichert/zsh-autocomplete.git
