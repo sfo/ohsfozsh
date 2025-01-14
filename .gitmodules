@@ -7,7 +7,6 @@
 [submodule "plugins/zsh-syntax-highlighting"]
 	path = plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
-
 [submodule "plugins/zsh-autosuggestions"]
 	path = plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions.git
@@ -25,4 +24,4 @@
 	url = https://github.com/sfo/zsh-dircolors-solarized.git
 [submodule "plugins/zsh-autocomplete"]
 	path = plugins/zsh-autocomplete
-	url = git@github.com:marlonrichert/zsh-autocomplete.git
+	url = https://github.com/marlonrichert/zsh-autocomplete.git
